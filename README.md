@@ -36,6 +36,10 @@
 - Developing a desktop application using VB.NET and SQL Server.
 - Designed modules for Patient Registration, Doctor Registration, Billing and Appointment Scheduling.
 
+### 4. E-Commerce Website
+- Developed a website for online shopping management using React and Node.js
+- Designed modules for Login, Registration, Add to Cart, Billing and Receipt
+  
 ## Currently Learning
 - Advanced Excel and Tableau
 - Python for Data Analytics
